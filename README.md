@@ -1,8 +1,8 @@
 ![coins-illustration](https://github.com/user-attachments/assets/6294e946-dd59-4672-aedb-f056073ede6e)
 # Frankfurter API Dev Client
 A lightweight, type-safe JavaScript/TypeScript client for the Frankfurter Currency Exchange Rates API, designed for developers who want clean abstractions, strong date validation, and a minimal API surface. This package wraps the Frankfurter API with strict input validation, predictable error handling, and zero runtime configuration.
-
-★ If you do like this project, show your love❤️ and support🤝 with a github star, it would mean a lot to me.
+<br/>
+If you do like this project, show your ❤️```Love``` & 🤝```Support``` with a github star, it would mean a lot to me.
 <br/><br/>
 ### 📦 Installation
 ```console
