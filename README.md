@@ -9,18 +9,18 @@ A lightweight, type-safe JavaScript/TypeScript client for the Frankfurter Curren
 npm install frankfurter-api-dev-client
 ```
 
-### ✨ Features
+### 📘 Features
 1. TypeScript-first with full type definitions
 2. Strict date validation (including leap years & future dates)
 3. Supports historical rates and time-series queries
 4. Minimal dependencies: dayjs only
 5. Clean, promise-based API - Works in both Node.js and modern browsers
 
-### 🌍 API Reference
+### 📘  API Reference
 This client is powered by the official [Frankfurter API](https://frankfurter.dev/)
 <br/>
 No API key is required.
 
-### 🤝 Contributing
+### 📘  Contributing
 Contributions, suggestions, and improvements are welcome.<br/>
 Feel free to open issues or pull requests.
