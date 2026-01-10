@@ -5,3 +5,5 @@ export type TLatestRates = {
   amount: number,
   rates: Record<string, number>,
 };
+export type TPeriod = {date: number, month: number, year: number};
+export type THistoricalRates = TLatestRates;

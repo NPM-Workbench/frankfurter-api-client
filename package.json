@@ -11,7 +11,9 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "prepublishOnly": "npm run build"
@@ -40,6 +42,8 @@
   "homepage": "https://github.com/NPM-Workbench/frankfurter-api-dev-client",
   "bugs": {
     "url": "https://github.com/NPM-Workbench/frankfurter-api-dev-client/issues"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.19"
   }
-
 }
