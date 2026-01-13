@@ -1,4 +1,7 @@
 ![banner-5](https://github.com/user-attachments/assets/269b7f19-b216-4177-8dbf-d78c706f2900)
+![npm](https://img.shields.io/npm/v/frankfurter-api-client)
+![downloads](https://img.shields.io/npm/dw/frankfurter-api-client)
+![license](https://img.shields.io/npm/l/frankfurter-api-client)
 # Frankfurter API Dev Client
 A lightweight, type-safe JavaScript/TypeScript client for the <b>Frankfurter Currency Exchange Rates API</b>, designed for developers who want clean abstractions, strong date validation, and a minimal API surface. This package wraps the Frankfurter API with strict input validation, predictable error handling, and zero runtime configuration.
 <br/><br/>
