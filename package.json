@@ -1,8 +1,8 @@
 {
-  "name": "frankfurter-api-dev-client",
+  "name": "frankfurter-api-client",
   "description": "A lightweight, dependency-minimal TypeScript client for the Frankfurter API, providing easy access to latest, historical, and time-series currency exchange rates.",
   "type": "module",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NPM-Workbench/frankfurter-api-dev-client"
+    "url": "https://github.com/NPM-Workbench/frankfurter-api-client"
   },
-  "homepage": "https://github.com/NPM-Workbench/frankfurter-api-dev-client",
+  "homepage": "https://github.com/NPM-Workbench/frankfurter-api-client",
   "bugs": {
-    "url": "https://github.com/NPM-Workbench/frankfurter-api-dev-client/issues"
+    "url": "https://github.com/NPM-Workbench/frankfurter-api-client/issues"
   },
   "dependencies": {
     "dayjs": "^1.11.19"
