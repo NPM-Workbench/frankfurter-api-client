@@ -2,7 +2,7 @@
 ![npm](https://img.shields.io/npm/v/frankfurter-api-client)
 ![downloads](https://img.shields.io/npm/dw/frankfurter-api-client)
 ![license](https://img.shields.io/npm/l/frankfurter-api-client)
-# Frankfurter API Dev Client
+# Frankfurter API Client
 A lightweight, type-safe JavaScript/TypeScript client for the <b>Frankfurter Currency Exchange Rates API</b>, designed for developers who want clean abstractions, strong date validation, and a minimal API surface. This package wraps the Frankfurter API with strict input validation, predictable error handling, and zero runtime configuration.
 <br/><br/>
 ### 📦 Installation
@@ -21,7 +21,7 @@ Note: This client is powered by the official [Frankfurter API](https://frankfurt
 ### 🔤 Example Usage
 1. Get Latest Exchange Rates
 ```javascript
-import { getLatestRates } from "frankfurter-api-dev-client";
+import { getLatestRates } from "frankfurter-api-client";
 
 const response = await getLatestRates({
   base: "EUR",
@@ -42,7 +42,7 @@ const response = await getLatestRates({
 ```
 2. Get Historical Rates for a Specific Date
 ```javascript
-import { getHistoricalRatesForDate } from "frankfurter-api-dev-client";
+import { getHistoricalRatesForDate } from "frankfurter-api-client";
 
 const data = await getHistoricalRatesForDate({
   base: "USD",
@@ -68,7 +68,7 @@ const data = await getHistoricalRatesForDate({
 ```
 3. Get Time Series Rates Between Two Dates
 ```javascript
-import { getTimeSeriesRates } from "frankfurter-api-dev-client";
+import { getTimeSeriesRates } from "frankfurter-api-client";
 
 const data = await getTimeSeriesRates({
   base: "EUR",
@@ -102,7 +102,7 @@ const data = await getTimeSeriesRates({
 ```
 4. Get Supported Currencies
 ```javascript
-import { getSupportedCurrencies } from "frankfurter-api-dev-client";
+import { getSupportedCurrencies } from "frankfurter-api-client";
 const data = await getSupportedCurrencies(); /* no input props required */
 /*
 {
