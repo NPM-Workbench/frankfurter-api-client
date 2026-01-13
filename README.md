@@ -4,7 +4,7 @@ A lightweight, type-safe JavaScript/TypeScript client for the <b>Frankfurter Cur
 <br/><br/>
 ### 📦 Installation
 ```console
-npm install frankfurter-api-dev-client
+npm install frankfurter-api-client
 ```
 Note: This client is powered by the official [Frankfurter API](https://frankfurter.dev/). No API Keys are required.
 
