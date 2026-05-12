@@ -197,7 +197,7 @@ All files                     |   99.43 |    96.77 |     100 |   99.43 |
 ------------------------------|---------|----------|---------|---------|-------------------
 ```
 
-### 📙 NPM Packages
+### 🗂 Related NPM Packages
 1. Frankfurter API Client: V1: https://www.npmjs.com/package/frankfurter-api-client
 2. Frankfurter API Client: V2: https://www.npmjs.com/package/frankfurter-api-client-v2
 3. Frankfurter API Status Client: https://www.npmjs.com/package/frankfurter-api-status-client
