@@ -4,7 +4,7 @@
 ![downloads](https://img.shields.io/npm/dw/frankfurter-api-client)
 ![license](https://img.shields.io/npm/l/frankfurter-api-client)
 ![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/frankfurter-api-client)
-# frankfurter-api-client-v1
+# frankfurter-api-client: v1
 
 A lightweight, type-safe JavaScript/TypeScript client for the <b>Frankfurter Currency Exchange Rates API</b>, designed for developers who want clean abstractions, strong date validation, and a minimal API surface. This package wraps the Frankfurter API with strict input validation, predictable error handling, and zero runtime configuration.
 <br/><br/>
@@ -197,11 +197,14 @@ All files                     |   99.43 |    96.77 |     100 |   99.43 |
 ------------------------------|---------|----------|---------|---------|-------------------
 ```
 
-### 📘 Contributing
+### 📙 NPM Packages
+1. Frankfurter API Client: V1: https://www.npmjs.com/package/frankfurter-api-client
+2. Frankfurter API Client: V2: https://www.npmjs.com/package/frankfurter-api-client-v2
+3. Frankfurter API Status Client: https://www.npmjs.com/package/frankfurter-api-status-client
 
+### 📘 Contributing
 Contributions, suggestions, and improvements are welcome.<br/>
 Feel free to open issues or pull requests.
 
 ### ❤️ Support
-
 Like this project? Support it with a github star, it would mean a lot to me! Cheers and Happy Coding.
