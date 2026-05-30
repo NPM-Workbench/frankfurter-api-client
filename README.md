@@ -3,6 +3,8 @@
 ![npm](https://img.shields.io/npm/v/frankfurter-api-client)
 ![downloads](https://img.shields.io/npm/dw/frankfurter-api-client)
 ![license](https://img.shields.io/npm/l/frankfurter-api-client)
+![Security Policy](https://img.shields.io/badge/security-policy-brightgreen)
+![npm_provenance](https://img.shields.io/badge/npm-provenance-brightgreen?logo=npm)
 ![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/frankfurter-api-client)
 # frankfurter-api-client: v1
 
@@ -205,6 +207,10 @@ All files                     |   99.43 |    96.77 |     100 |   99.43 |
 ### 📘 Contributing
 Contributions, suggestions, and improvements are welcome.<br/>
 Feel free to open issues or pull requests.
+
+### 🔒 Security & Privacy
+1. This package is open source and intended to provide reusable utilities for application development. It does not collect, store, transmit, sell, or share user data, and it does not include analytics, tracking, telemetry, cookies, local storage usage, backend services, or project-owned data collection mechanisms.
+2. For more details, including vulnerability reporting guidance and consumer security recommendations, please see the [Security Policy](https://github.com/NPM-Workbench/frankfurter-api-client/security/policy).
 
 ### ❤️ Support
 Like this project? Support it with a github star, it would mean a lot to me! Cheers and Happy Coding.
