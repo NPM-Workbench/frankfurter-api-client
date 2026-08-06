@@ -2,9 +2,10 @@
   "name": "frankfurter-api-client",
   "description": "A lightweight, dependency-minimal TypeScript client for the Frankfurter API, providing easy access to latest, historical, and time-series currency exchange rates.",
   "type": "module",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  "sideEffects": false,
   "exports": {
     ".": {
       "import": "./dist/index.js",
